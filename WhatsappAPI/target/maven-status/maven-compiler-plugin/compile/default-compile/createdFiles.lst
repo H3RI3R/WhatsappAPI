@@ -1,0 +1,3 @@
+com\scriza\BankWebSocketServer.class
+com\scriza\Server\WebSocketServer.class
+com\scriza\Server\QrCodeServerEndpoint.class
